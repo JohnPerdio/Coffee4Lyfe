@@ -1,0 +1,15 @@
+.bgimg2 {
+    background-image: url('https://www.shutterstock.com/image-illustration/abstract-white-brown-creamy-colors-600nw-2323244161.jpg');
+    background-color: rgb(255, 255, 255);
+    height: 720px;
+    background-position: center;
+    background-size: cover;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+
+  .bar{
+    background-color: #333333;
+    height: 70px;
+}
